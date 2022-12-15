@@ -1,0 +1,11 @@
+.warning{
+    background-color: rgb(243, 100, 100);
+    padding: 30px;
+    text-align: center;
+}
+.success{
+    background-color: lightgreen;
+    padding: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
